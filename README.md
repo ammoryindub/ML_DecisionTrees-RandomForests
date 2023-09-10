@@ -25,3 +25,5 @@ file is associated with 02-ML-DecisionTrees-&-RandomForests
 - Prediction and Evaluation
 
 - Decision Trees
+
+- Random Forests
