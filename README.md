@@ -22,4 +22,6 @@ file is associated with 02-ML-DecisionTrees-&-RandomForests
 
 - Train Test Split
 
+- Prediction and Evaluation
+
 - Decision Trees
