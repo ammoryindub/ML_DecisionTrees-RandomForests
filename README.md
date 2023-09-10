@@ -16,6 +16,6 @@ file is associated with 02-ML-DecisionTrees-&-RandomForests
 ### 01-ML-K Nearest-Neighbors
 - Import libraries
 
-- Data Cleaning
+- Get data
 
 - Data Scaling
