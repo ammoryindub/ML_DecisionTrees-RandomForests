@@ -2,7 +2,7 @@
 Machine Learning - DecisionTrees &amp; RandomForests
 
 
-**'Classified Data.csv'**
+**'kyphosis.csv'**
 files are associated with 01-ML-DecisionTrees-&-RandomForests
 
 
