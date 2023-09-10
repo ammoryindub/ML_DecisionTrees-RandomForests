@@ -6,7 +6,7 @@ Machine Learning - DecisionTrees &amp; RandomForests
 files are associated with 01-ML-DecisionTrees-&-RandomForests
 
 
-**'KNN_Project_Data.csv'**
+**'loan_data.csv'**
 file is associated with 02-ML-DecisionTrees-&-RandomForests
 
 
