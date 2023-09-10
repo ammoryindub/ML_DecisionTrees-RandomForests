@@ -3,11 +3,11 @@ Machine Learning - DecisionTrees &amp; RandomForests
 
 
 **'Classified Data.csv'**
-files are associated with 01-ML-K Nearest-Neighbors
+files are associated with 01-ML-DecisionTrees-&-RandomForests
 
 
 **'KNN_Project_Data.csv'**
-file is associated with 02-ML-K Nearest-Neighbors
+file is associated with 02-ML-DecisionTrees-&-RandomForests.
 
 
 
