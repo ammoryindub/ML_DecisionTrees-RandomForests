@@ -7,7 +7,7 @@ files are associated with 01-ML-DecisionTrees-&-RandomForests
 
 
 **'KNN_Project_Data.csv'**
-file is associated with 02-ML-DecisionTrees-&-RandomForests.
+file is associated with 02-ML-DecisionTrees-&-RandomForests
 
 
 
