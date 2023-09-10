@@ -18,4 +18,4 @@ file is associated with 02-ML-DecisionTrees-&-RandomForests
 
 - Get data
 
-- Data Scaling
+- EDA
