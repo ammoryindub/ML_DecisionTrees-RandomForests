@@ -21,3 +21,5 @@ file is associated with 02-ML-DecisionTrees-&-RandomForests
 - EDA
 
 - Train Test Split
+
+- Decision Trees
