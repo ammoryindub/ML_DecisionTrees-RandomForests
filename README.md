@@ -42,3 +42,5 @@ file is associated with 02-ML-DecisionTrees-&-RandomForests
 - Train Test Split
 
 - Training a Decision Tree Model
+
+- Predictions and Evaluation of Decision Tree
