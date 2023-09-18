@@ -35,4 +35,6 @@ file is associated with 02-ML-DecisionTrees-&-RandomForests
 
 - Get the Data
 
+- Exploratory Data Analysis
+
 - 
