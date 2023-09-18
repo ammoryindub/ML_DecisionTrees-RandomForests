@@ -44,3 +44,5 @@ file is associated with 02-ML-DecisionTrees-&-RandomForests
 - Training a Decision Tree Model
 
 - Predictions and Evaluation of Decision Tree
+
+- Training the Random Forest model
