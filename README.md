@@ -37,4 +37,6 @@ file is associated with 02-ML-DecisionTrees-&-RandomForests
 
 - Exploratory Data Analysis
 
+- Categorical Features
+
 - 
